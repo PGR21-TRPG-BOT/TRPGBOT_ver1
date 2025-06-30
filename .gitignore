@@ -1,0 +1,30 @@
+# 가상 환경
+venv/
+env/
+.env
+
+# Python 바이트코드
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 로그 파일
+*.log
+
+# 개발 환경 설정
+.vscode/
+.idea/
+
+# OS 생성 파일
+.DS_Store
+Thumbs.db
+
+# Vercel 배포 관련
+.vercel
+.now
+
+# 빌드 디렉토리
+.vercel/
+.build/ 
+
+"울타리 너머 - 또 다른 모험으로_3c_r6_2d.pdf"
